@@ -10,8 +10,18 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@react-native-community/masked-view": "^0.1.6",
+    "@react-navigation/native": "^5.0.5",
+    "@react-navigation/stack": "^5.0.5",
+    "gingko": "git+https://github.com/yh-yunchuang-fe/gingko.git#npm",
     "react": "16.9.0",
-    "react-native": "0.61.5"
+    "react-native": "0.61.5",
+    "react-native-camera": "^3.18.0",
+    "react-native-gesture-handler": "^1.6.0",
+    "react-native-reanimated": "^1.7.0",
+    "react-native-safe-area-context": "^0.7.3",
+    "react-native-screens": "^2.0.0-beta.4",
+    "yh-rn-qr-scanner": "git+https://github.com/yh-yunchuang-fe/react-native-qr-scanner.git#camera"
   },
   "devDependencies": {
     "@babel/core": "^7.8.4",

@@ -6,8 +6,8 @@
 
 ```bash
 //会先按照npm，在安装iOS相关的pod
-npm install
 
+npm install
 cd ios
 pod install
 ```
